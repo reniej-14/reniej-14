@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Mi nombre es Jeiner ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# 👋 ¡Hola! Mi nombre es Jeiner
 
-## 👨‍💻 Programador Web & Estudiante de Ingeniería en Sistemas
+## 👨‍💻 Programador Web y Estudiante de Ingeniería en Sistemas
 
 Desarrollador frontend con experiencia en **React**, apasionado por la tecnología y en constante aprendizaje.
 
